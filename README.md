@@ -1,19 +1,17 @@
-Copyright 2022 London App Brewery LTD (www.appbrewery.com)
+PREVIEW
+1. HOME PAGE (root directory)
+![image](https://github.com/vaibhav-oo7/openD-nft-marketplace/assets/97470918/c26607ab-3444-4673-a3e3-994f092584e8)
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
+2. DISCOVER (to see NFTs listed for sale)
+![image](https://github.com/vaibhav-oo7/openD-nft-marketplace/assets/97470918/fd1936da-e1ef-4488-b758-fe22d2da8fda)
 
-    http://www.apache.org/licenses/LICENSE-2.0
+3. MINTER (to create/mint your own NFTs)
+![image](https://github.com/vaibhav-oo7/openD-nft-marketplace/assets/97470918/2ddd6e08-3cbf-4278-9992-97b09effccaa)
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+4. My NFTs (to see the NFTs owned by the user)
+![image](https://github.com/vaibhav-oo7/openD-nft-marketplace/assets/97470918/b3e08ef6-adac-4fa6-9a0d-b53d4ea1abbf)
+
 
 # To Install and Run the Project
 
