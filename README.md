@@ -110,7 +110,7 @@ dfx canister call opend mint '(vec {137; 80; 78; 71; 13; 10; 26; 10; 0; 0; 0; 13
 dfx canister call opend listItem '(principal "<REPLACE WITH NFT CANISTER ID>", 2)'
 ```
 last tested
-{dfx canister call opend listItem '(principal "wmio3-kqaaa-aaaaa-aaasq-cai", 2)'}
+{dfx canister call opend listItem '(principal "rno2w-sqaaa-aaaaa-aaacq-cai", 2)'}
 
 3. Get OpenD canister ID:
 
@@ -125,7 +125,7 @@ dfx canister call <canister id> transferOwnership '(principal "<REPLACE WITH OPE
 
 ```
 last tested
-{dfx canister call wmio3-kqaaa-aaaaa-aaasq-cai transferOwnership '(principal "ryjl3-tyaaa-aaaaa-aaaba-cai", true)'}
+{dfx canister call rno2w-sqaaa-aaaaa-aaacq-cai transferOwnership '(principal "ryjl3-tyaaa-aaaaa-aaaba-cai", true)'}
 
 # Conneting to the Token Canister
 
@@ -136,3 +136,8 @@ last tested
 ```
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
+
+
+3. to get your principal id write on terminal:
+
+dfx identity get-principal
